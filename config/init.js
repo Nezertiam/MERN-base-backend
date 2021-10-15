@@ -15,6 +15,7 @@ const projectInitialisation = () => {
     console.log("DONE")
 
     console.log("Operation finished !");
+    console.log("You are now free to remove config/init.js from your project !")
 }
 
 projectInitialisation();
