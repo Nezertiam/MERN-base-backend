@@ -10,7 +10,7 @@ I am still learning about the stack so, of course, there are things that can be 
 
 ## The stack
 
-MongoDB, Express JS
+MongoDB, Node.js, Express JS
 
 It uses the following dependencies: mongoose, config, request, express-validator and jsonwebtoken.
 
