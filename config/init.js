@@ -11,7 +11,7 @@ const projectInitialisation = () => {
     console.log("DONE")
 
     console.log("Installing dependencies with 'npm install' command...")
-    execSync("npm install");
+    execSync("npm install", { stdio: "inherit" });
     console.log("DONE")
 
     console.log("Operation finished !");
